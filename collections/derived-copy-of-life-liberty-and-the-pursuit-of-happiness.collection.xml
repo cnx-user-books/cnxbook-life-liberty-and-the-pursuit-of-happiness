@@ -1,19 +1,20 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Preview Course">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col32399</md:content-id>
     <md:title>Derived copy of Life, Liberty, and the Pursuit of Happiness</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>6903c8fd-2dcc-4e41-a316-6488b0719e9a</md:uuid>
-<md:slug>derived-copy-of-life-liberty-and-the-pursuit-of-happiness</md:slug>
-</metadata>
+    <md:slug>derived-copy-of-life-liberty-and-the-pursuit-of-happiness</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m83592"/>
     <col:subcollection>
-      <md:title>1491–1763</md:title>
+      <md:title>1491&#x2013;1763</md:title>
       <col:content>
         <col:subcollection>
-          <md:title>1491–1607</md:title>
+          <md:title>1491&#x2013;1607</md:title>
           <col:content>
             <col:module document="m76296"/>
             <col:module document="m76297"/>
@@ -41,7 +42,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>1607–1763</md:title>
+          <md:title>1607&#x2013;1763</md:title>
           <col:content>
             <col:module document="m76318"/>
             <col:module document="m76319"/>
@@ -79,10 +80,10 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>1763–1800</md:title>
+      <md:title>1763&#x2013;1800</md:title>
       <col:content>
         <col:subcollection>
-          <md:title>1763–1789</md:title>
+          <md:title>1763&#x2013;1789</md:title>
           <col:content>
             <col:module document="m76401"/>
             <col:module document="m76437"/>
@@ -126,7 +127,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>1789–1800</md:title>
+          <md:title>1789&#x2013;1800</md:title>
           <col:content>
             <col:module document="m78810"/>
             <col:module document="m78812"/>
@@ -170,10 +171,10 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>1800–1844</md:title>
+      <md:title>1800&#x2013;1844</md:title>
       <col:content>
         <col:subcollection>
-          <md:title>1800–1828</md:title>
+          <md:title>1800&#x2013;1828</md:title>
           <col:content>
             <col:module document="m78865"/>
             <col:module document="m78846"/>
@@ -200,7 +201,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>1828–1844</md:title>
+          <md:title>1828&#x2013;1844</md:title>
           <col:content>
             <col:module document="m79349"/>
             <col:module document="m79350"/>
@@ -240,10 +241,10 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>1844–1877</md:title>
+      <md:title>1844&#x2013;1877</md:title>
       <col:content>
         <col:subcollection>
-          <md:title>1844–1860</md:title>
+          <md:title>1844&#x2013;1860</md:title>
           <col:content>
             <col:module document="m80566"/>
             <col:module document="m80567"/>
@@ -288,7 +289,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>1860–1877</md:title>
+          <md:title>1860&#x2013;1877</md:title>
           <col:content>
             <col:module document="m83502"/>
             <col:module document="m83503"/>
@@ -328,10 +329,10 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>1877–1898</md:title>
+      <md:title>1877&#x2013;1898</md:title>
       <col:content>
         <col:subcollection>
-          <md:title>1877–1898</md:title>
+          <md:title>1877&#x2013;1898</md:title>
           <col:content>
             <col:module document="m80603"/>
             <col:module document="m80604"/>
@@ -373,10 +374,10 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>1898–1945</md:title>
+      <md:title>1898&#x2013;1945</md:title>
       <col:content>
         <col:subcollection>
-          <md:title>1898–1919</md:title>
+          <md:title>1898&#x2013;1919</md:title>
           <col:content>
             <col:module document="m83537"/>
             <col:module document="m83538"/>
@@ -412,7 +413,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>1920–1932</md:title>
+          <md:title>1920&#x2013;1932</md:title>
           <col:content>
             <col:module document="m84366"/>
             <col:module document="m84368"/>
@@ -444,7 +445,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>1932–1945</md:title>
+          <md:title>1932&#x2013;1945</md:title>
           <col:content>
             <col:module document="m84397"/>
             <col:module document="m84398"/>
@@ -485,10 +486,10 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>1945–1980</md:title>
+      <md:title>1945&#x2013;1980</md:title>
       <col:content>
         <col:subcollection>
-          <md:title>1945–1960</md:title>
+          <md:title>1945&#x2013;1960</md:title>
           <col:content>
             <col:module document="m84459"/>
             <col:module document="m84461"/>
@@ -528,7 +529,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>1960–1968</md:title>
+          <md:title>1960&#x2013;1968</md:title>
           <col:content>
             <col:module document="m84513"/>
             <col:module document="m84514"/>
@@ -568,7 +569,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>1968–1980</md:title>
+          <md:title>1968&#x2013;1980</md:title>
           <col:content>
             <col:module document="m83567"/>
             <col:module document="m83568"/>
@@ -604,10 +605,10 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>1980–Present</md:title>
+      <md:title>1980&#x2013;Present</md:title>
       <col:content>
         <col:subcollection>
-          <md:title>1980–Present</md:title>
+          <md:title>1980&#x2013;Present</md:title>
           <col:content>
             <col:module document="m84559"/>
             <col:module document="m84570"/>
